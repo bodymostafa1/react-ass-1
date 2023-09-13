@@ -1,0 +1,17 @@
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: #2C3E50;
+}
+.textcolor{
+    color: #2C3E50;
+}
+input{
+    border-top:none !important;
+    border-left:none !important;
+    border-right:none !important; 
+}
+.btn_cyan{
+background-color: #1ABC9C !important;
+color: white !important;
+}

@@ -1,0 +1,15 @@
+.bg_background{
+    background-color: #2C3E50;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+}
+.bg_secondery{
+    background-color: #1A252F;
+}
