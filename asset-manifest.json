@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-ass-1/static/css/main.698e8a24.css",
-    "main.js": "/react-ass-1/static/js/main.c9b610d3.js",
+    "main.js": "/react-ass-1/static/js/main.062d90a4.js",
     "static/js/787.ac34fb11.chunk.js": "/react-ass-1/static/js/787.ac34fb11.chunk.js",
     "static/media/poert1.png": "/react-ass-1/static/media/poert1.4417330275f78faa31c3.png",
     "static/media/port3.png": "/react-ass-1/static/media/port3.494a4a914b5471b41f3e.png",
@@ -9,11 +9,11 @@
     "static/media/avataaars.svg": "/react-ass-1/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
     "index.html": "/react-ass-1/index.html",
     "main.698e8a24.css.map": "/react-ass-1/static/css/main.698e8a24.css.map",
-    "main.c9b610d3.js.map": "/react-ass-1/static/js/main.c9b610d3.js.map",
+    "main.062d90a4.js.map": "/react-ass-1/static/js/main.062d90a4.js.map",
     "787.ac34fb11.chunk.js.map": "/react-ass-1/static/js/787.ac34fb11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.698e8a24.css",
-    "static/js/main.c9b610d3.js"
+    "static/js/main.062d90a4.js"
   ]
 }
